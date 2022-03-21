@@ -1,0 +1,5 @@
+- station_1.csv: The csv file containing raw data of station 1
+- train_df.csv: The csv file used for training without applying SSA
+- train_df_ssa.csv: The csv file used for training applied SSA
+- dev_df.csv: The csv file used as validation set
+- test_df.csv: The csv file used as test set
